@@ -15,7 +15,5 @@ void main(List<String> args) {
   print(Herramientas.listado);
   // final List<String> listadoHerramientas = Herramientas().listado;
 
-  final List<String> listadoHerramientas = Herramientas.listado;
-
   Herramientas.imprimirListado();
 }
